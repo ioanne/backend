@@ -32,6 +32,10 @@ ALLOWED_HOSTS = []
 
 LOCAL_APPS = [
     "apps.custom_user",
+    "apps.collection",
+    "apps.book",
+    "apps.author",
+    "apps.category",
 ]
 
 EXTERNAL_APPS = [

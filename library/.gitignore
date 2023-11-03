@@ -1,0 +1,43 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Archivos de registro y directorios
+logs/
+*.log
+
+# Archivos de base de datos SQLite
+*.sqlite3
+
+# Archivos de configuración locales
+settings_local.py
+
+# Directorio de medios (archivos cargados por usuarios)
+media/
+
+# Archivo de claves secretas
+secret_key.txt
+
+# Archivos de compilación y carpetas
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivo de configuración de Python
+pyvenv.cfg
+
+# Carpeta de migraciones de Django
+*/migrations/
+
+# Archivos de registro de prueba
+test_*.log
+
+# Carpeta de archivos estáticos generados
+staticfiles/
+
+# Carpeta de archivos temporales
+tmp/
